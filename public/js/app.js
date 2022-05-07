@@ -1,0 +1,1 @@
+console.log("From Client side js file")
